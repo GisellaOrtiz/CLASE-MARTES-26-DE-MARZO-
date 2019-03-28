@@ -1,0 +1,6 @@
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\OPERACONES\bin\Debug\OPERACONES.dll
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\OPERACONES\bin\Debug\OPERACONES.pdb
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\OPERACONES\obj\Debug\OPERACONES.csprojAssemblyReference.cache
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\OPERACONES\obj\Debug\OPERACONES.csproj.CoreCompileInputs.cache
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\OPERACONES\obj\Debug\OPERACONES.dll
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\OPERACONES\obj\Debug\OPERACONES.pdb

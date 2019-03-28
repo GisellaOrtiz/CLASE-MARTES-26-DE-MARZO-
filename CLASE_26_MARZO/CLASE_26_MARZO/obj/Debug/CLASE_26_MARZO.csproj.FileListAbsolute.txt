@@ -1,0 +1,13 @@
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\bin\Debug\CLASE_26_MARZO.exe.config
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\bin\Debug\CLASE_26_MARZO.exe
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\bin\Debug\CLASE_26_MARZO.pdb
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\bin\Debug\OPERACONES.dll
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\bin\Debug\OPERACONES.pdb
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\obj\Debug\CLASE_26_MARZO.csprojAssemblyReference.cache
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\obj\Debug\CLASE_26_MARZO.Form1.resources
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\obj\Debug\CLASE_26_MARZO.Properties.Resources.resources
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\obj\Debug\CLASE_26_MARZO.csproj.GenerateResource.cache
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\obj\Debug\CLASE_26_MARZO.csproj.CoreCompileInputs.cache
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\obj\Debug\CLASE_26_MARZO.csproj.CopyComplete
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\obj\Debug\CLASE_26_MARZO.exe
+C:\Users\ZITRO\source\repos\CLASE_26_MARZO\CLASE_26_MARZO\obj\Debug\CLASE_26_MARZO.pdb
